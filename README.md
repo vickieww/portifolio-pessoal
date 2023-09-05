@@ -9,9 +9,8 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
-# 🚀 Projeto - portifolio para escrita do README
-
- 
+# 🚀 Projeto - Portfólio para escrita do README
+![image](img/capa.png)
 
 ## 📋 Descrição
 
