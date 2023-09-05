@@ -8,6 +8,6 @@
 
 [Tecnologias utlizadas](#tecnologias-utlizadas)
 
-[Fontes consultadas] 
+## Fontes consultadas
 
-[Autores]
+## Autores
