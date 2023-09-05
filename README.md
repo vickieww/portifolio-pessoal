@@ -1,4 +1,4 @@
-# Projeto - Portifolio para escrita do README
+# Projeto - Portfolio para escrita do README
 
 ## Descrição
 
