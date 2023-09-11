@@ -1,6 +1,6 @@
 # Índice
 
- ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 [ Projeto - portifolio para escrita do README](#projeto---portifolio-para-escrita-do-readme)  
 [Desrição](#descri%C3%A7%C3%A3o)  
