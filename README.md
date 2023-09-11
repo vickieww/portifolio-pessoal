@@ -25,10 +25,10 @@
 
 ### ⚙️ Tecnologias utilizadas
 
- `HTML` 
+- `HTML` 
 - `CSS`
- `GitHub`
- `Bootstrap 5`
+- `GitHub`
+- `Bootstrap 5` 
 
 ## 📄 Fontes consultadas
 
