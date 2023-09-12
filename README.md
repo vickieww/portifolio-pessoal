@@ -14,7 +14,7 @@
 
 ## 📋 Descrição
 
- Projeto desenvolvido durante a disciplina de Programação Web para a realização de um README e da aplicação de uma página utilizando Bootstrap como exemplo de página responsiva.
+ Projeto desenvolvido durante a disciplina de Programação Web para a realização de um README e da aplicação de uma página utilizando Bootstrap como exemplo de página responsiva. O projeto se baseia em uma tela simples e bonita com três funções: início, características e contato.  
 
 
  ## :hammer: Funcionalidades do projeto
@@ -41,5 +41,7 @@
 
 ## ✒️ Autores
 
-[Vitória Gabrieli:](https://github.com/vickieww)  
-[Leonardo Rocha:](https://github.com/LeonardoRochaMarista)  
+Vitória Gabrieli  
+[Acesse o perfil no GitHub](https://github.com/vickieww)  
+Leonardo Rocha
+[Acesse o perfil no GitHub](https://github.com/LeonardoRochaMarista)  
