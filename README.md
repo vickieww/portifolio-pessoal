@@ -32,6 +32,14 @@
 
 ## 📄 Fontes consultadas
 
- 
+
+[Modelo utilizado como inspiração para o README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
+
+[Exemplo de como escrever um README:](https://www.alura.com.br/artigos/escrever-bom-readme)  
+
+[Bootstrap](https://getbootstrap.com/)
 
 ## ✒️ Autores
+
+[Vitória Gabrieli:](https://github.com/vickieww)  
+[Leonardo Rocha:](https://github.com/LeonardoRochaMarista)  
