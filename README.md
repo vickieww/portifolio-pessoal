@@ -43,5 +43,6 @@
 
 Vitória Gabrieli  
 [Acesse o perfil no GitHub](https://github.com/vickieww)  
+[Acesse o perfil no Linkedin](https://www.linkedin.com/in/vit%C3%B3ria-gabrieli-25b5a3274)  
 Leonardo Rocha  
 [Acesse o perfil no GitHub](https://github.com/LeonardoRochaMarista)  
