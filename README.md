@@ -43,5 +43,5 @@
 
 Vitória Gabrieli  
 [Acesse o perfil no GitHub](https://github.com/vickieww)  
-Leonardo Rocha
+Leonardo Rocha  
 [Acesse o perfil no GitHub](https://github.com/LeonardoRochaMarista)  
