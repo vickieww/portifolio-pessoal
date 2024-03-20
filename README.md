@@ -3,9 +3,9 @@
  ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 [ Projeto - portifolio para escrita do README](#projeto---portifolio-para-escrita-do-readme)  
-[Desrição](#descri%C3%A7%C3%A3o)  
+[Descrição](#descri%C3%A7%C3%A3o)  
 [Funcionalidades](#funcionalidades)  
-[Tecnologioa utilizadas](#tecnologioa-utilizadas)  
+[Tecnologias utilizadas](#tecnologioa-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 
